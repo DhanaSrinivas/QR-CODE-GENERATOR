@@ -1,0 +1,28 @@
+# CONTENT TO BE ADDED FOR README
+Usage
+Open a terminal or command prompt and navigate to the project directory.
+
+Run the following command to start the application:
+
+sql
+Copy code
+npm start
+The application will prompt you to enter a URL. Type in the desired URL and press Enter.
+
+The application will generate a QR code image based on the entered URL and save it as myQRcode.png.
+
+The entered URL will be saved in a text file named message.txt.
+
+Dependencies
+The following npm packages are used in this project:
+
+inquirer: Used for user input prompts.
+qr-image: Used to generate QR code images.
+fs: A built-in Node.js module for file system operations.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+Feel free to customize the content as per your specific requirements, such as providing installation instructions for specific platforms or including additional sections like "Testing" or "Troubleshooting".
