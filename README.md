@@ -14,3 +14,11 @@ This is a simple Node.js application that prompts the user to enter a URL and ge
     <li>Run the following command to install the dependencies:`npm install`. </li>
 
   </ol>
+
+## Dependencies
+The following npm packages are used in this project:
+<ul>
+<li>inquirer: Used for user input prompts.</li>
+<li>qr-image: Used to generate QR code images.</li>
+<li>fs: A built-in Node.js module for file system operations.</li>
+</ul>
