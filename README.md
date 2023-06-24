@@ -7,7 +7,7 @@ This is a simple Node.js application that prompts the user to enter a URL and ge
     <li>npm (version 9.5.1 or higher)</li>
   </ul>
 
-##Installation
+## Installation
   <ol>
     <li>Clone the repository or download the source code.</li>
     <li>Open the terminal and navigate to the project directory.</li>
